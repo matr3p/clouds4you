@@ -32,6 +32,8 @@ As this will be done on a live machine/system, please ensure you are either auth
 1. Launch `https://discord.com/login` on forensic machine.
 2. Login either via credentials or QR code.
 ![Discord Login](./img/blob/main/discord login.PNG?raw=true "Discord Login")
+<summary>Login</summary>
+<alt="image" src="https://github.com/matr3p/img/blob/main/discord%20login.PNG">
 3. You may be present with 2FA
 ![Discord 2FA](./img/blob/main/discord 2FA.PNG?raw=true "Discord 2FA")
 4. Upon logging in, navigate to Channels/DM that you want to export out. Notice that `DHT` is present on top right screen
