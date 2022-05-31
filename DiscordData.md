@@ -47,7 +47,7 @@ Make sure `Autoscroll` is checked
 8. Navigate to [Discord Chat Viewer](https://dht.chylex.com/browser-only/build/viewer.html)
 9. Load the `dht.txt` file
 10. Congrats! You're able to view the data!
-![View Data](./img/view_data.png)
+![View Data](./img/view_data.PNG)
 11. You may download the webpage or do a Save-As for offline copy, else the already downloaded JSON copy
 12. Log out of account after use.
 
