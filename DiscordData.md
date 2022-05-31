@@ -31,23 +31,23 @@
 ## Web Method
 1. Launch `https://discord.com/login` on forensic machine.
 2. Login either via credentials or QR code.
-![Discord Login](https://github.com/matr3p/img/blob/main/discord_login.PNG)
+![Discord Login](./img/discord_login.PNG)
 3. You may be present with 2FA
-![Discord 2FA](https://github.com/matr3p/img/blob/main/discord 2FA.PNG)
+![Discord 2FA](./img/discord_2FA.PNG)
 4. Upon logging in, navigate to Channels/DM that you want to export out. Notice that `DHT` is present on top right screen
-![DHT](https://github.com/matr3p/img/blob/main/discord dm.png)
+![DHT](./img/discord_dm.png)
 5. Click on the `DHT`. The capture settings will appear and you may set accordingly to your preference
 Make sure `Autoscroll` is checked
-![DHT Settings](https://github.com/matr3p/img/blob/main/dht settings.PNG)
+![DHT Settings](./img/dht_settings.PNG)
 6. Click on `Start Tracking` to capture the data. Once done, it will autopopulate the messages and it's channel(s). Download the file.
-![Download data](https://github.com/matr3p/img/blob/main/track %26 download.png)
-![Download data](https://github.com/matr3p/img/blob/main/track %26 download2.png)
+![Download data](./img/track_download.png)
+![Download data](./img/track_download2.png)
 7. The downloaded file will be named `dht.txt`. Do note that this file is in JSON format
-![DHT file](https://github.com/matr3p/img/blob/main/dht txt file)
+![DHT file](./img/dht_txt_file)
 8. Navigate to [Discord Chat Viewer](https://dht.chylex.com/browser-only/build/viewer.html)
 9. Load the `dht.txt` file
 10. Congrats! You're able to view the data!
-![View Data](https://github.com/matr3p/img/blob/main/view data.png)
+![View Data](./img/view_data.png)
 11. You may download the webpage or do a Save-As for offline copy, else the already downloaded JSON copy
 12. Log out of account after use.
 
