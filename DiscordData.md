@@ -29,27 +29,27 @@
 * Discord application has to be logged in
 
 ## Web Method
-1. Launch `https://discord.com/login` on forensic machine.
-2. Login either via credentials or QR code.
+1. Launch `https://discord.com/login` on forensic machine.\
+2. Login either via credentials or QR code.\
 ![Discord Login](./img/discord_login.PNG)
-3. You may be present with 2FA
+3. You may be present with 2FA\
 ![Discord 2FA](./img/discord_2FA.PNG)
-4. Upon logging in, navigate to Channels/DM that you want to export out. Notice that `DHT` is present on top right screen
+4. Upon logging in, navigate to Channels/DM that you want to export out. Notice that `DHT` is present on top right screen\
 ![DHT](./img/discord_dm.png)
-5. Click on the `DHT`. The capture settings will appear and you may set accordingly to your preference
+5. Click on the `DHT`. The capture settings will appear and you may set accordingly to your preference\
 Make sure `Autoscroll` is checked
 ![DHT Settings](./img/dht_settings.PNG)
-6. Click on `Start Tracking` to capture the data. Once done, it will autopopulate the messages and it's channel(s). Download the file.
+6. Click on `Start Tracking` to capture the data. Once done, it will autopopulate the messages and it's channel(s). Download the file.\
 ![Download data](./img/track_download.png)
 ![Download data](./img/track_download2.png)
-7. The downloaded file will be named `dht.txt`. Do note that this file is in JSON format
+7. The downloaded file will be named `dht.txt`. Do note that this file is in JSON format\
 ![DHT file](./img/dht_txt_file)
-8. Navigate to [Discord Chat Viewer](https://dht.chylex.com/browser-only/build/viewer.html)
-9. Load the `dht.txt` file
-10. Congrats! You're able to view the data!
+8. Navigate to [Discord Chat Viewer](https://dht.chylex.com/browser-only/build/viewer.html)\
+9. Load the `dht.txt` file\
+10. Congrats! You're able to view the data!\
 ![View Data](./img/view_data.PNG)
-11. You may download the webpage or do a Save-As for offline copy, else the already downloaded JSON copy
-12. Log out of account after use.
+11. You may download the webpage or do a Save-As for offline copy, else the already downloaded JSON copy\
+12. Log out of account after use.\
 
 ## Application Method
 To DO
