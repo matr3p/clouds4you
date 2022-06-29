@@ -66,8 +66,9 @@
   - [X] Note 1: You are able to filter by date/channel/user on the application.
   - [X] Note 2: You are able to view the total number of attachments downloaded and size, reattempt if failed and limit the attachment size.
   - [X] Note 3: Call/Video/Pinned Messages metadata are not captured. (Issue raised to developer)
-  - [X] Note 4: All links/images/screenshots are dynamic, not static.
+  - [X] Note 4: All links/images/screenshots are dynamic, not static (need internet access to view).
   - [X] Note 5: Deleted messages/links/images/screenshots cannot be retrieved/captured.
+  - [X] Note 5a: If messages/links/images/screenshots was captured before deletion, data will retain.
   - [X] Note 6: The application uses SQLite. You can use SQL to query or manipulate the database file.
 12. Log out of account after use.
 
