@@ -35,7 +35,7 @@
   1. 1GB storage
   2. Main link is not unique, more like cache webpage. Cannot be access using another browser or device. Only by the same browser, if it's not closed. Once closed or logout, unable to access
   [<img src="https://github.com/matr3p/clouds4you/blob/main/img2/tempaccount.jpg" />](./img2/tempaccount.jpg)
-  <br><br>
+  <br/><br/>
   [<img src="https://github.com/matr3p/clouds4you/blob/main/img2/tempaccount - redirection.jpg" />](./img2/tempaccount - redirection.jpg)
   3. Timestamp will reflect the time it was uploaded. Files moved to folder timestamp not captured. However, folder creation time is captured.
   4. Individual file has a unique link to view or download it.
