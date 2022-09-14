@@ -20,7 +20,8 @@
   - Basic (Registered account)
   - Pro (Paid)
   - Business (Paid)
-  
-  ## Trial Account
+
+## Trial Account
   1. 1GB storage
   2. Main link is not unique, more like cache webpage. Cannot be access using another browser or device. only by the same browser, if it's not closed. Once closed or logout, unable to access
+  [<img src="https://github.com/matr3p/clouds4you/blob/main/img2/tempaccount.jpg" />](./img2/tempaccount.jpg)
